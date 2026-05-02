@@ -35,12 +35,12 @@ The system is designed using an **interrupt-driven approach** for efficient comm
 
 ## ⚙️ Key Features
 
-- 📡 CAN-based multi-node communication  
-- ⚡ Interrupt-driven CAN reception (Node B)  
-- 📏 Real-time distance measurement using ultrasonic sensor  
-- 🔊 Distance-based buzzer control  
-- 🚫 Sensor fault detection using invalid readings (`999`)  
-- 🧩 Modular embedded drivers (CAN, UART, Timer)
+-  CAN-based multi-node communication  
+-  Interrupt-driven CAN reception (Node B)  
+-  Real-time distance measurement using ultrasonic sensor  
+-  Distance-based buzzer control  
+-  Sensor fault detection using invalid readings (`999`)  
+-  Modular embedded drivers (CAN, UART, Timer)
 
 ---
 
@@ -80,7 +80,7 @@ The system is designed using an **interrupt-driven approach** for efficient comm
 
 ### 🤝 Let’s Connect
 
-If you’re working on embedded systems or interested in CAN-based applications, feel free to connect or discuss!
+If you’re working on embedded systems or interested in CAN-based applications, Feel free to raise issues or fork this project!
 
 ### ⭐ If you found this interesting, consider giving it a star!
 
