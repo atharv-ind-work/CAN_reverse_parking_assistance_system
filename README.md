@@ -64,7 +64,7 @@ The system is designed using an **interrupt-driven approach** for efficient comm
 - Microcontroller: LPC2129 (ARM7)
 - Language: Embedded C
 - Protocols: CAN, UART
-- Peripherals: Timer, GPIO
+- Peripherals: Timer, GPIO, Led, Buzzer
 - Sensor: Ultrasonic (HC-SR04)
 
 ---
