@@ -36,7 +36,7 @@ The system is designed using an **interrupt-driven approach** for efficient comm
 ## ⚙️ Key Features
 
 -  CAN-based multi-node communication  
--  Interrupt-driven CAN reception (Node B)  
+-  Interrupt-driven CAN reception and delay-free system design  
 -  Real-time distance measurement using ultrasonic sensor  
 -  Distance-based buzzer control  
 -  Sensor fault detection using invalid readings (`999`)  
