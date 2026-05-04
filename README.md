@@ -84,4 +84,4 @@ If you’re working on embedded systems or interested in CAN-based applications,
 
 ### ⭐ If you found this interesting, consider giving it a star!
 
-
+⚠️ Note: Due to the absence of an onboard buzzer on the LPC2129 development board, an LED is used as a visual indicator to represent buzzer states (ON/OFF and blinking patterns).
